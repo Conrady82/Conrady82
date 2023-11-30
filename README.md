@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Conrady82
 - 👀 I’m interested in creating Web Apps
-- 🌱 I’m coding Full-stack applications in Javascript!
+- 🌱 I’m building Full-stack applications in Javascript!
 - 💞️ I’m looking to collaborate on multi-user web app projects
 - 📫 How to reach me Conrady82@gmail.com
 

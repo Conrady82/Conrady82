@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Conrady82
 - 👀 I’m interested in creating Web Apps
 - 🌱 I’m building Full-stack applications in Javascript!
-- 💞️ I’m looking to collaborate! Interesting in using AI APIs
+- 💞️ I’m looking to collaborate!
 - 📫 How to reach me Conrady82@gmail.com
 
 <!---
